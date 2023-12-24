@@ -1,0 +1,4 @@
+./photos/plane.jpeg
+0): a plane is flying in blue sky .
+1): a plane is flying in cloudy sky .
+2): a plane is flying in blue and cloudy sky .
